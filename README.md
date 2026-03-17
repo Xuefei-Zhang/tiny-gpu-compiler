@@ -58,7 +58,7 @@ kernel vec_add(             tinygpu.func @vec_add() {           0: 0x50DE  MUL R
 
 ## Quick Start
 
-### Interactive Visualizer (No Installation Required)
+### Interactive Visualizer
 
 Open the **[live demo](https://gautam1858.github.io/tiny-gpu-compiler/)** in your browser. Select an example kernel, step through the compilation stages, and watch the GPU execute your code cycle by cycle.
 
